@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_dm_sdtm",
+  "source_file": "dm_sdtm.sas",
+  "source_blob_sha": "adf1807ff47f2c0135bbc34dd8509c9e4dd0374f",
+  "source_commit": "2b9ff135a937c1c573558e11c211b3f39118cac1",
+  "notes": "Raw DM -> SDTM DM mapping for study XMB111. Original reads raw.dm via a hardcoded Windows libname; substituted a small inline raw.dm (12 real CDISC-pilot subjects: RANDOMNO/SITE/RACEC/STUDYID) so the DM-derivation DATA step (DOMAIN, race rename, ARM/ARMCD, USUBJID concat) runs standalone. Derivation logic unchanged; added a PROC PRINT to show the mapped output."
+}
