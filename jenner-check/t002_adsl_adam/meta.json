@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_adsl_adam",
+  "source_file": "adsl_adam.sas",
+  "source_blob_sha": "760bf0a2111274a86af1fa8a5d1b4857e5bdec60",
+  "source_commit": "2b9ff135a937c1c573558e11c211b3f39118cac1",
+  "notes": "SDTM DM -> ADaM ADSL. Original reads sdtm.dm via a hardcoded Windows libname; substituted a small inline sdtm.dm shaped like the SDTM DM output of dm_sdtm.sas (usubjid=studyid-site-subjid, arm=XMB111) so the ADSL build runs standalone. ADSL DATA step (keep subset, TRT01P=ARM) unchanged; added a PROC PRINT to show the result."
+}

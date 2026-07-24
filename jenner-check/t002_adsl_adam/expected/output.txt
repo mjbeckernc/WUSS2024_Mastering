@@ -1,0 +1,12 @@
+
+studyid        usubjid  subjid  siteid                       race     arm  trt01p
+-------  -------------  ------  ------  -------------------------  ------  ------
+XMB111   XMB111-701-41  41      701     WHITE                      XMB111  XMB111
+XMB111   XMB111-701-42  42      701     WHITE                      XMB111  XMB111
+XMB111   XMB111-701-37  37      701     HISPANIC                   XMB111  XMB111
+XMB111   XMB111-701-39  39      701     BLACK OR AFRICAN AMERICAN  XMB111  XMB111
+XMB111   XMB111-701-51  51      701     BLACK OR AFRICAN AMERICAN  XMB111  XMB111
+XMB111   XMB111-701-6   6       701     WHITE                      XMB111  XMB111
+XMB111   XMB111-701-2   2       701     WHITE                      XMB111  XMB111
+XMB111   XMB111-701-12  12      701     HISPANIC                   XMB111  XMB111
+
